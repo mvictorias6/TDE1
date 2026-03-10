@@ -5,7 +5,7 @@
 
 ---
 
-## ✅ Comprovação dos cursos
+##  Comprovação dos cursos
 - `/certificados` 
 
 ---
