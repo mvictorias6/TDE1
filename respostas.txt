@@ -122,4 +122,4 @@ R: True
 
 Pergunta 5 - What does 'Git-flow' do?
 R: Sets up a template for you to use into your repo.
-R: Sets up a template for you to use into your repo.
+
