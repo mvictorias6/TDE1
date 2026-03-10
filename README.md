@@ -6,7 +6,7 @@
 ---
 
 ##  Comprovação dos cursos
-- `/certificados` 
+- `certificados_git_github` 
 
 ---
 *NOME: [Maria Victória Sales Vieira]*
